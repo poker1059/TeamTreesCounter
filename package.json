@@ -1,0 +1,19 @@
+{
+  "name": "treeticker",
+  "version": "1.0.0",
+  "description": "#TeamTrees - How many trees have been planted so far",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sundew",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "puppeteer": "^2.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+  }
+}
